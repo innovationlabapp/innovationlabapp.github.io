@@ -3,6 +3,13 @@ facebook.com, 402494555675672, DIRECT, c3e20eee3f780d68
 google.com, pub-9296372483561531, DIRECT, f08c47fec0942fa0
 google.com, pub-7171269809080077, DIRECT, f08c47fec0942fa0
 indexexchange.com, 194974, RESELLER, 50b1c356f2c5c8fc
+#Premium Programmatic Demand by publisher@greedygame.com
+greedygame.com, 3055722897079350, DIRECT
+google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
+google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
+pubmatic.com, 161480, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162539, RESELLER, 5d62403b186f2ace
+google.com,pub-4686405784285870, RESELLER, f08c47fec0942fa0
 appnexus.com, 12941, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12752, RESELLER, f5ab79cb980f11d1
 appnexus.com, 12969, RESELLER, f5ab79cb980f11d1
